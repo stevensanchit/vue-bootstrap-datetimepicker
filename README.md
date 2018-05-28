@@ -30,10 +30,10 @@ Vue.js v2.x component for [eonasdan-bootstrap-datetimepicker](http://eonasdan.gi
 ## Installation
 ```bash
 # npm
-npm install vue-bootstrap-datetimepicker --save
+npm install vue-bootstrap-datetimepicker@beta --save
 
 # Yarn
-yarn add vue-bootstrap-datetimepicker
+yarn add vue-bootstrap-datetimepicker@beta
 ```
   
 #### Using Webpack? 
